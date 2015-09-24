@@ -1,51 +1,53 @@
 body {
-  margin: 0;
-  text-align: center;
-  background: gray;
+	margin: 0;
+	text-align: center;
+	background: gray;
 }
 
 h1.especial{
-  color: blue;
+	color: blue;
 }
 
 
 div#casulo{
-  width: 1000px;
-  margin: 0 auto; /*top e bottom left rigth*/
-  background: rgba();
+	width: 1000px;
+	margin: 0 auto; /*top e bottom left rigth*/
+	background: rgba();
 
 }
 
 
 div#principal{
-  width: 620px;
-  float: left;
+	width: 620px;
+	float: left;
+
+	
 
 }
 
 div#lateral{
-  background: white;
-  width: 275px;
-  float: left;
-  margin: 49px;
-  background: gray; 
+	background: white;
+	width: 275px;
+	float: left;
+	margin: 49px;
+	background: gray; 
 }
 
 div#lateral img {
-  width: 350px;
+	width: 350px;
 
 }
 
 div#principal img {
-  width:  620px;
+	width:  620px;
 }
 
 h1{
-  font-family: 'pacifico', cursive;
+	font-family: 'pacifico', cursive;
 }
 
 p{
-  font-family: 'Dosis', sans-serif;
+	font-family: 'Dosis', sans-serif;
 }
 
 
